@@ -1,0 +1,29 @@
+.parent1 button{
+    background-color: blue;
+    height: 50px;
+    width: 70px;
+    margin-top: 20px;
+    color: white;
+    border-radius: 10px;      
+}
+.parent1{
+    margin-left: 150px;
+}
+.div1 input{
+    height: 50px;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 10px;  
+}
+hr{
+    border: 1px solid grey;
+    margin: 20px;
+}
+.para{
+    height: 100px;
+    width: 100%;
+    
+}
+
+
+    
